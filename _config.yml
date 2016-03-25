@@ -2,6 +2,7 @@ name: Sandwich
 favicon: null
 layout_spectrum: 0.21270105615258217
 typography_spectrum: 0.8442523465491831
+title: Sandwich.farm
 cta:
   domain: null
   bucket: null
