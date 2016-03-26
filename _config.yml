@@ -1,20 +1,4 @@
-name: Sandwich
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.63868
-title: Sandwich.farm
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#A690A4'
@@ -22,8 +6,13 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.6875
+  brandStrength: 0.193412
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.247466
+  saturation: 0.508446
+cta: {}
+layout_spectrum: 0.23902
+name: Sandwich
+opengraph: {}
 purpose: []
+typography_spectrum: 0.63868
